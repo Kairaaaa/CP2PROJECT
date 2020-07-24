@@ -1,1 +1,2 @@
-# CP2PROJECT
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
